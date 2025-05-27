@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloaded videos and archives
+downloaded_channel_videos/
+*.mp4
+*.m4a
+*.webm
+*.part
+*.ytdl
+*.temp
+*.tmp
+*.log
+
+# yt-dlp download archive
+downloaded_channel_videos.txt
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
